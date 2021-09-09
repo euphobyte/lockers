@@ -5,4 +5,5 @@ Project page for the automated lockers project.
 * Modify standard school lockers
 * Per locker add solenoid mechanism
 * Per locker add Reed switch
-* 
+* Four wires per locker I2C / Power and ground
+* Internet gateway and Microcontroller Mega 2560 (54 IO ports)
