@@ -8,3 +8,4 @@ Project page for the automated lockers project.
 * Four wires per locker I2C / Power and ground
 * Internet gateway and Microcontroller Mega 2560 (54 IO ports)
 * WZ55500 for internet /  Maybe better GPRS
+* MH-ET LIVE Scanner v3.0 UART module
