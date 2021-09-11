@@ -1,5 +1,5 @@
 function test(){
   var lb = document.createElement('label');
-  lb.setText= "Hello World!"
+  lb.innerText = "Hello World!"
   document.appendChild(lb);
 }
