@@ -1,3 +1,5 @@
 function test(){
-  alert("Hello World!");
+  var lb = document.createElement('label');
+  lb.setText= "Hello World!"
+  document.appendChild(lb);
 }
