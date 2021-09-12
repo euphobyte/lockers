@@ -1,3 +1,3 @@
-function hello(msg){
+function init(msg){
   alert('Hello World!');
 }
